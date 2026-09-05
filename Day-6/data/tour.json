@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Paris",
+        "price": 500,
+        "duration": 5
+    },
+    {
+        "id": 2,
+        "name": "Dubai",
+        "price": 700,
+        "duration": 4
+    },
+    {
+        "id": 3,
+        "name": "London",
+        "price": 600,
+        "duration": 6
+    },
+    {
+        "id": 4,
+        "name": "Spain",
+        "price": 600,
+        "duration": 8
+    }
+]
